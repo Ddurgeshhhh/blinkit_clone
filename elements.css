@@ -1,0 +1,14 @@
+.vertical_line{
+
+    height:80px;
+    border:1px solid light gray;
+}
+#search_bar{
+    border:2px solid red;
+    width:45%;
+}
+#search_bar>input{
+     border:none; 
+     width:95%;
+
+}
